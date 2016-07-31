@@ -1,0 +1,1 @@
+In this Block, I learned the basics of HTMl, such as creating different font types from different familities, font sizes, adding images, as well as adding videos from youtube and music from soundcloud using the built-in embed feature!
